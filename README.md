@@ -1,3 +1,3 @@
 # MVP
-dynamic index fund, real market prices, 130+ exchanges, trading (coming soon)
+Our minimum viable product consists of a dynamic index fund composition, real market prices, and purchase of the fund from 130+ cryptocurrency exchanges around the world (coming soon).
 We will make our code open source as soon as business-viably possible. For now, please see the attached code output samples.
